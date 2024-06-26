@@ -17,4 +17,4 @@ easy,
 
 ## How to use BDK ?
 - run `bdk init` in CMD/Terminal/BatchFile.
-- you can know use all BDK commands! try `echo %@.version%` to confirm that everything works perfectly!
+- you can now use all BDK commands! try `echo %@.version%` to confirm that everything works perfectly!
