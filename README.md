@@ -1,3 +1,8 @@
+# Everything has to come to an end, sadly
+This project has been deprecated on 2024/8/21 at 4:45 PM GMT+3
+This project will no longer be maintained, search for a fork (if there is).
+- NEOAPPS.
+
 # BDK/BatDK (Batch Development Kit)
 Welcome to the official BDK github repo!
 here, you will find the full source code for BDK!
